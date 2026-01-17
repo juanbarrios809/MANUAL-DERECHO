@@ -1,0 +1,32 @@
+body{
+    background-color:white;
+}
+
+header{
+    background-color: white;
+    text-align: center;
+    border-bottom: 2px solid goldenrod;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav__list{
+    display: inline-block;
+}
+
+.nav__item{
+    display: inline-block;
+    margin: 0 20px;
+}
+
+h1{color: rgb(0, 0, 0);}
+h2{color: rgb(39, 46, 30);}
+
+
+
+footer{
+    margin-top: 30px;
+    border-top: 2px solid goldenrod;
+}
